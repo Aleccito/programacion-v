@@ -1,47 +1,63 @@
-# Tarea 1 - Modelos de Servicio y Despliegue en la Nube
+# ☁️ Tarea 1 | Computación en la Nube
 
-## Descripción
+## 📌 Descripción
 
-Documento académico elaborado para comprender los principales modelos de servicio en la nube (**IaaS, PaaS y SaaS**) y los modelos de despliegue (**nube pública, privada e híbrida**), comparándolos con la infraestructura local tradicional.
+Trabajo académico enfocado en el análisis de los **modelos de servicio en la nube** y los **modelos de despliegue**, comprendiendo sus diferencias frente a la infraestructura local tradicional.
 
-## Objetivo
+---
 
-Analizar cómo la computación en la nube permite a las empresas mejorar escalabilidad, reducir costos y optimizar recursos tecnológicos.
+## 🎯 Objetivo
 
-## Contenido del trabajo
+Identificar cómo la nube permite a las organizaciones mejorar su rendimiento tecnológico mediante escalabilidad, flexibilidad y optimización de costos.
 
-### Modelos de Servicio
+---
 
-- **IaaS (Infrastructure as a Service)**  
-  Infraestructura virtual como servidores, redes y almacenamiento.
+## 🛠️ Modelos de Servicio
 
-- **PaaS (Platform as a Service)**  
-  Plataforma lista para desarrollar y desplegar aplicaciones.
+### 🔹 IaaS (Infrastructure as a Service)
+Infraestructura virtual como servidores, redes y almacenamiento.
 
-- **SaaS (Software as a Service)**  
-  Software disponible por internet listo para usar.
+**Ejemplos:** AWS EC2, Azure Virtual Machines.
 
-### Modelos de Despliegue
+### 🔹 PaaS (Platform as a Service)
+Entorno listo para desarrollar y desplegar aplicaciones.
 
-- **Nube Pública**  
-  Servicios compartidos ofrecidos por proveedores como AWS o Azure.
+**Ejemplos:** Heroku, Google App Engine.
 
-- **Nube Privada**  
-  Infraestructura exclusiva para una empresa.
+### 🔹 SaaS (Software as a Service)
+Software accesible desde internet sin instalación local.
 
-- **Nube Híbrida**  
-  Combinación de nube pública y privada.
+**Ejemplos:** Gmail, Google Drive, Microsoft 365.
 
-## Archivo Entregado
+---
+
+## 🌐 Modelos de Despliegue
+
+### 🔹 Nube Pública
+Infraestructura compartida administrada por proveedores externos.
+
+### 🔹 Nube Privada
+Infraestructura exclusiva para una organización.
+
+### 🔹 Nube Híbrida
+Combinación entre nube pública y privada.
+
+---
+
+## 📄 Archivo del Proyecto
 
 - `tarea-nube.pdf`
 
-## Herramientas utilizadas
+---
+
+## 💻 Herramientas Utilizadas
 
 - Microsoft Word / Google Docs  
 - GitHub  
-- PDF
+- Exportación PDF
 
-## Autor
-Alec Biruet
+---
+
+## 👨‍🎓 Autor
+ALEC BIRUET
 Estudiante de Ingeniería en Sistemas
