@@ -170,3 +170,91 @@ alecuser
   ]
 }
 ```
+# 🔗 Paso 6 - Asignar Política al Usuario
+
+## 📍 Ruta
+
+AWS Console > IAM > Users > alecuser > Permissions
+
+## Procedimiento
+
+1. Ingresar al servicio IAM.  
+2. Seleccionar el usuario **alecuser**.  
+3. Ir a la pestaña **Permisos**.  
+4. Hacer clic en **Agregar permisos**.  
+5. Seleccionar **Adjuntar políticas directamente**.  
+6. Buscar la política creada previamente.  
+7. Marcar la política **SoloLecturaBucket**.  
+8. Confirmar con **Agregar permisos**.  
+
+## Resultado final
+
+Usuario: alecuser  
+Permiso asignado: SoloLecturaBucket
+
+📸 Captura sugerida: Usuario mostrando la política asignada.
+
+---
+
+# 🧹 Paso 7 - Eliminar Permiso General (Opcional)
+
+## 📍 Ruta
+
+AWS Console > IAM > Users > alecuser > Permissions
+
+## Procedimiento
+
+1. Seleccionar la política **AmazonS3ReadOnlyAccess** si fue asignada antes.  
+2. Hacer clic en **Eliminar**.  
+3. Confirmar la eliminación.  
+
+## Resultado esperado
+
+El usuario conservará únicamente acceso al bucket específico.
+
+📸 Captura sugerida: Usuario mostrando solo la política personalizada.
+
+---
+
+# 📁 Evidencias Recomendadas
+
+- 01-crear-bucket.png  
+- 02-versionado.png  
+- 03-bucket-creado.png  
+- 04-subir-archivo.png  
+- 05-archivo-listado.png  
+- 06-crear-usuario.png  
+- 07-politica-creada.png  
+- 08-politica-asignada.png  
+- 09-permisos-finales.png  
+
+---
+
+# 🛡️ Seguridad Implementada
+
+| Configuración | Estado |
+|--------------|--------|
+| Acceso público bloqueado | ✅ |
+| ACL deshabilitadas | ✅ |
+| Usuario IAM creado | ✅ |
+| Permiso restringido al bucket | ✅ |
+| Solo lectura aplicada | ✅ |
+
+---
+
+# 🧠 Aprendizajes Obtenidos
+
+- Gestión de usuarios IAM  
+- Aplicación de políticas personalizadas  
+- Seguridad en AWS  
+- Control de acceso por recursos  
+- Principio de mínimo privilegio  
+
+---
+
+# 🏁 Conclusión
+
+Se completó correctamente la asignación de permisos al usuario IAM, restringiendo el acceso únicamente al bucket creado.  
+
+Con esta configuración se garantiza un entorno más seguro y una correcta administración de accesos dentro de AWS.
+
