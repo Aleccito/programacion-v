@@ -93,7 +93,6 @@ AWS Console > S3 > Create Bucket
 
 bucket-alec-modulo3
 
-📸 Captura sugerida: Pantalla de creación del bucket.
 
 ---
 
@@ -113,7 +112,6 @@ Bucket > Properties > Bucket Versioning
 - Recuperación de archivos
 - Protección ante errores
 
-📸 Captura sugerida: Versioning Enabled.
 
 ---
 
@@ -129,7 +127,6 @@ Bucket > Upload
 - Subir archivo
 - Confirmar carga
 
-📸 Captura sugerida: Archivo visible dentro del bucket.
 
 ---
 
@@ -143,7 +140,6 @@ AWS Console > IAM > Users > Create User
 
 alecuser
 
-📸 Captura sugerida: Pantalla de creación del usuario.
 
 ---
 
@@ -192,7 +188,6 @@ AWS Console > IAM > Users > alecuser > Permissions
 Usuario: alecuser  
 Permiso asignado: SoloLecturaBucket
 
-📸 Captura sugerida: Usuario mostrando la política asignada.
 
 ---
 
