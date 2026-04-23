@@ -57,7 +57,8 @@ Combinación entre nube pública y privada.
 - Exportación PDF
 
 ---
-![Imagen](img/CloudComputingProgV.jpg)
+<img width="1635" height="894" alt="image" src="https://github.com/user-attachments/assets/5976daa9-92d4-4ba7-92da-ea04540ff015" />
+
 
 ## 👨‍🎓 Autor
 ALEC BIRUET
