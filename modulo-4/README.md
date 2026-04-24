@@ -157,7 +157,7 @@ docker-practica/
 ### Imagen construida con `docker build`
 <img width="655" height="29" alt="image" src="https://github.com/user-attachments/assets/effc450f-5939-4b40-92ad-ec04dab1687a" />
 <img width="707" height="80" alt="image" src="https://github.com/user-attachments/assets/33b1a88d-c6fb-430f-8e69-f0d97a217fa4" />
-D
+
 ### Contenedor ejecutado con `docker run`
 <img width="629" height="34" alt="image" src="https://github.com/user-attachments/assets/0c731040-f375-413a-980d-64fb375a7a59" />
 <img width="328" height="27" alt="image" src="https://github.com/user-attachments/assets/c45b16fd-9d2c-415d-b4b7-bdce5465f6c7" />
