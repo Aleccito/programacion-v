@@ -147,11 +147,22 @@ docker-practica/
 
 ## Evidencia de cumplimiento
 
-| Requisito | Estado |
-|---|---|
-| Imagen base ligera de Python | ✅ `python:3.11-slim` |
-| Archivo `app.py` creado | ✅ Imprime "Hola desde Docker" |
-| Imagen construida con `docker build` | ✅ `hola-python:latest` — 124 MB |
-| Contenedor ejecutado con `docker run` | ✅ Salida correcta en terminal |
-| Imágenes listadas con `docker images` | ✅ |
-| Contenedores listados con `docker ps` | ✅ |
+### Imagen base ligera de Python
+<img width="431" height="274" alt="image" src="https://github.com/user-attachments/assets/cf91e4c3-c85d-4980-90b8-2fa7f1f871eb" />
+
+
+### Archivo `app.py` creado
+<img width="413" height="57" alt="image" src="https://github.com/user-attachments/assets/269847a4-9e7c-4079-9dd6-3482304b15be" />
+
+### Imagen construida con `docker build`
+<img width="655" height="29" alt="image" src="https://github.com/user-attachments/assets/effc450f-5939-4b40-92ad-ec04dab1687a" />
+<img width="707" height="80" alt="image" src="https://github.com/user-attachments/assets/33b1a88d-c6fb-430f-8e69-f0d97a217fa4" />
+D
+### Contenedor ejecutado con `docker run`
+<img width="629" height="34" alt="image" src="https://github.com/user-attachments/assets/0c731040-f375-413a-980d-64fb375a7a59" />
+<img width="328" height="27" alt="image" src="https://github.com/user-attachments/assets/c45b16fd-9d2c-415d-b4b7-bdce5465f6c7" />
+vi Do
+### Imágenes listadas con `docker images`
+<img width="764" height="35" alt="image" src="https://github.com/user-attachments/assets/26506fe4-bc37-408e-9132-696e4f0408e6" />
+
+### Contenedores listados con `docker ps`
